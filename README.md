@@ -8,7 +8,7 @@
 |--------------------|-------------------|------------------------------------------------------------------------------|
 | Alexandru Soroiu   | @alexandrusoroiu  | Feature engineering, SVM model design and evaluation, project documentation  |
 | Grace Madison Wu   | @gracemadisonwu   | Data collection, exploratory data analysis (EDA), dataset documentation      |
-| Aniekan Inyang     | @aniekanai        | Data preprocessing, text cleaning, lemmatization, Naive Bayes Development, data validation             |
+| Aniekan Inyang     | @aniekanai        | Data preprocessing, Exploratory Data Analysis (EDA) Naive Bayes, and LSTM model development            |
 | Karina Hernandez   | @khern2005        | Model selection, hyperparameter tuning, training classical ML baselines      |
 | Arif Manawer       | @arifmanawer      | LSTM model development, deep learning experiments, performance analysis      |
 | Sumaiya Chowdhury  | @sumaiyachow3     | BERT model experimentation, Random forest development, evaluation, results interpretation               |
